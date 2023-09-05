@@ -1,0 +1,5 @@
+https://blog.stuffedcow.net/2013/01/ivb-cache-replacement/
+
+lat.cc: Measure cyclic permutation load latency
+lat2.cc: Touch elements twice before eviction
+lat3.cc: Cycle through two arrays of different size to detect scan resistance
